@@ -1,0 +1,8 @@
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
+<item name="Building" type="closedway">
+<key key="building" value="yes" />
+</item>
+<item name="Hut" type="closedway">
+<key key="building" value="hut" />
+</item>
+</presets>
