@@ -1,0 +1,82 @@
+<!-- Streets preset includes: highway tags, highway links, buildings, oneway, roundabout and elevation.
+
+motorway|trunk|primary|secondary|tertiary|residential|unclassified|service|track. 
+[motorway_link|trunk_link|primary_link|secondary_link|tertiary_link]. 
+building:yes|building:hut. 
+oneway:yes
+junction:roundabout 
+[bridge:yes, level:1|tunnel:yes, level:-1|level:2|level:3] -->
+
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
+		<item name="Track" type="way,closedway">
+			<key key="highway" value="track" />
+		</item>
+		<item name="Service" type="way,closedway">
+			<key key="highway" value="service" />
+		</item>
+		<item name="Residential" type="way,closedway">
+			<key key="highway" value="residential" />
+		</item>
+		<item name="Tertiary" type="way,closedway">
+			<key key="highway" value="tertiary" />
+		</item>
+		<item name="Secondary" type="way,closedway">
+			<key key="highway" value="secondary" />
+		</item>
+		<item name="Primary" type="way,closedway">
+			<key key="highway" value="primary" />
+		</item>
+		<item name="Trunk" type="way,closedway">
+			<key key="highway" value="trunk" />
+		</item>
+		<item name="Motorway" type="way,closedway">
+			<key key="highway" value="motorway" />
+		</item>
+		<item name="Unclassified" type="way,closedway">
+			<key key="highway" value="unclassified" />
+		</item>
+
+		<item name="oneway" type="way,closedway">
+		<key key="oneway" value="yes" />
+		</item>
+
+		<item name="roundabout" type= "way,closedway">
+			<key key="junction" value="roundabout" />
+		</item>
+
+	<group name="Links">
+		<item name="Tertiary" type="way,closedway">
+		<key key="highway" value="tertiary_link" />
+		</item>
+		<item name="Secondary" type="way,closedway">
+		<key key="highway" value="secondary_link" />
+		</item>
+		<item name="Primary" type="way,closedway">
+		<key key="highway" value="primary_link" />
+		</item>
+		<item name="Trunk" type="way,closedway">
+		<key key="highway" value="trunk_link" />
+		</item>
+		<item name="Motorway" type="way,closedway">
+		<key key="highway" value="motorway_link" />
+		</item>
+	</group>
+
+	<group name="Elevation">
+                <item name="bridge" type="way">
+                        <key key="bridge" value="yes" />
+                        <key key="layer" value="1" />
+                </item>
+                <item name="tunnel" type="way">
+                        <key key="tunnel" value="yes" />
+                        <key key="layer" value="-1" />
+                </item>
+        		<item name="layer 2" type="way">
+        				<key key="layer" value="2" />
+        		</item>
+        		<item name="layer 3" type="way">
+        				<key key="layer" value="3" />
+		</item>
+        </group> 
+
+</presets>
