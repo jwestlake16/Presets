@@ -8,31 +8,31 @@ junction:roundabout
 [bridge:yes, level:1|tunnel:yes, level:-1|level:2|level:3] -->
 
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
-		<item name="Track" type="way,closedway">
+		<item name="Track" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/track.png" type="way,closedway">
 			<key key="highway" value="track" />
 		</item>
-		<item name="Service" type="way,closedway">
+		<item name="Service" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/service.png" type="way,closedway">
 			<key key="highway" value="service" />
 		</item>
-		<item name="Residential" type="way,closedway">
+		<item name="Residential" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/residential.png" type="way,closedway">
 			<key key="highway" value="residential" />
 		</item>
 		<item name="Tertiary" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/tertiary.png" type="way,closedway">
 			<key key="highway" value="tertiary" />
 		</item>
-		<item name="Secondary" type="way,closedway">
+		<item name="Secondary" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/secondary.png" type="way,closedway">
 			<key key="highway" value="secondary" />
 		</item>
-		<item name="Primary" type="way,closedway">
+		<item name="Primary" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/primary.png" type="way,closedway">
 			<key key="highway" value="primary" />
 		</item>
-		<item name="Trunk" type="way,closedway">
+		<item name="Trunk" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/trunk.png" type="way,closedway">
 			<key key="highway" value="trunk" />
 		</item>
-		<item name="Motorway" type="way,closedway">
+		<item name="Motorway" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/motorway.png" type="way,closedway">
 			<key key="highway" value="motorway" />
 		</item>
-		<item name="Unclassified" type="way,closedway">
+		<item name="Unclassified" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/unclassified.png" type="way,closedway">
 			<key key="highway" value="unclassified" />
 		</item>
 
