@@ -17,7 +17,7 @@ junction:roundabout
 		<item name="Residential" type="way,closedway">
 			<key key="highway" value="residential" />
 		</item>
-		<item name="Tertiary" type="way,closedway">
+		<item name="Tertiary" icon="Icons/tertiary.png" type="way,closedway">
 			<key key="highway" value="tertiary" />
 		</item>
 		<item name="Secondary" type="way,closedway">
