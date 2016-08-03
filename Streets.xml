@@ -40,7 +40,7 @@ junction:roundabout
 		<key key="oneway" value="yes" />
 		</item>
 
-		<item name="roundabout" type= "way,closedway">
+		<item name="roundabout" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/roundabout_left.svg" type= "way,closedway">
 			<key key="junction" value="roundabout" />
 		</item>
 
@@ -62,7 +62,7 @@ junction:roundabout
 		</item>
 	</group>
 
-	<group name="Elevation">
+	<group name="Elevation" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/bridge_outline.svg">
                 <item name="bridge" type="way">
                         <key key="bridge" value="yes" />
                         <key key="layer" value="1" />
