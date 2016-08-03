@@ -17,6 +17,9 @@ junction:roundabout
 		<item name="Residential" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/residential.png" type="way,closedway">
 			<key key="highway" value="residential" />
 		</item>
+		<item name="Unclassified" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/unclassified.png" type="way,closedway">
+			<key key="highway" value="unclassified" />
+		</item>
 		<item name="Tertiary" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/tertiary.png" type="way,closedway">
 			<key key="highway" value="tertiary" />
 		</item>
@@ -32,11 +35,8 @@ junction:roundabout
 		<item name="Motorway" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/motorway.png" type="way,closedway">
 			<key key="highway" value="motorway" />
 		</item>
-		<item name="Unclassified" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/unclassified.png" type="way,closedway">
-			<key key="highway" value="unclassified" />
-		</item>
 
-		<item name="oneway" type="way,closedway">
+		<item name="OW" type="way,closedway">
 		<key key="oneway" value="yes" />
 		</item>
 
