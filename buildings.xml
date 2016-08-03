@@ -1,8 +1,8 @@
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
-<item name="Building" type="closedway">
+<item name="Building" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/building.png" type="closedway">
 <key key="building" value="yes" />
 </item>
-<item name="Hut" type="closedway">
+<item name="Hut" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/building.png" type="closedway">
 <key key="building" value="hut" />
 </item>
 </presets>
