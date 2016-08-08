@@ -36,7 +36,7 @@ junction:roundabout
 			<key key="highway" value="motorway" />
 		</item>
 
-		<item name="OW" type="way,closedway">
+		<item name="oneway" type="way,closedway">
 		<key key="oneway" value="yes" />
 		</item>
 
