@@ -76,7 +76,10 @@ junction:roundabout
         		</item>
         		<item name="layer 3" type="way">
         				<key key="layer" value="3" />
-		</item>
+				</item>
+				<item name="layer 4" type="way">
+        				<key key="layer" value="4" />
+				</item>
         </group> 
 
 </presets>
