@@ -44,7 +44,7 @@ junction:roundabout
 			<key key="junction" value="roundabout" />
 		</item>
 
-	<group name="Links">
+	<group name="Links" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/links.png">
 		<item name="Tertiary" type="way,closedway">
 		<key key="highway" value="tertiary_link" />
 		</item>
