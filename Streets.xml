@@ -36,11 +36,11 @@ junction:roundabout
 			<key key="highway" value="motorway" />
 		</item>
 
-		<item name="oneway" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/oneway.png" type= "way,closedway">
+		<item name="oneway" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/oneway.png" type="way,closedway">
 		<key key="oneway" value="yes" />
 		</item>
 
-		<item name="roundabout" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/roundabout_left.svg" type= "way,closedway">
+		<item name="roundabout" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/roundabout_left.svg" type="way,closedway">
 			<key key="junction" value="roundabout" />
 		</item>
 
