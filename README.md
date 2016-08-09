@@ -1,5 +1,4 @@
-# Presets
-Custom presets for use in a Java-based editing environment
+# Custom presets for use in a Java-based editing environment
 
 Install instructions: (note a few restarts will be required)
 
