@@ -1,11 +1,26 @@
-<!-- Streets preset includes: highway tags, highway links, buildings, oneway, roundabout and elevation.
+<!-- 
+	
+Title:..........JOSM Highway Tagging Preset
+Authors:.........jwestlake16
+Contributors:...
+Latest update:..8/9/2016
+Summary:........This preset allows for multiple highway tags to be added as keyboard shortcuts using the toolbar.
+
+Streets preset includes: highway tags, highway links, buildings, oneway, roundabout and elevation.
 
 motorway|trunk|primary|secondary|tertiary|residential|unclassified|service|track. 
 [motorway_link|trunk_link|primary_link|secondary_link|tertiary_link]. 
 building:yes|building:hut. 
 oneway:yes
 junction:roundabout 
-[bridge:yes, level:1|tunnel:yes, level:-1|level:2|level:3] -->
+[bridge:yes, level:1|tunnel:yes, level:-1|level:2|level:3|level:4] 
+
+Install instructions: (note a few restarts will be required)
+1. Add tagging preset in JOSM using the github raw link in the Map Setting preferences.
+2. Add presets to the toolbar in the Toolbar Customization preferences.
+3. Set keyboard shortcuts to desired preset tag in the Keyboard Shortcuts preferences (note: these will appear under "toolbar:" if searched. 
+
+-->
 
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
 		<item name="Track" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/track.png" type="way,closedway">
