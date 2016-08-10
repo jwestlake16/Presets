@@ -7,3 +7,10 @@ Install instructions: (note a few restarts will be required)
 2. Add presets to the toolbar in the Toolbar Customization preferences.
 
 3. Set keyboard shortcuts to desired preset tag in the Keyboard Shortcuts preferences (note: these will appear under "toolbar:" if searched. 
+
+
+ Icons sources:
+
+Oneway - www.openstreetmap.org
+
+Bridge and Roundabout - JOSM default images: josm/contents/java/josm-snapshot.../images/styles/standard...
