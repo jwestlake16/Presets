@@ -9,7 +9,8 @@ Install instructions: (note a few restarts will be required)
 3. Set keyboard shortcuts to desired preset tag in the Keyboard Shortcuts preferences (note: these will appear under "toolbar:" if searched. 
 
 
- Icons sources:
+
+Icon sources:
 
 Oneway - www.openstreetmap.org
 
