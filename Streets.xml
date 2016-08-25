@@ -86,15 +86,18 @@ Install instructions: (note a few restarts will be required)
                         <key key="tunnel" value="yes" />
                         <key key="layer" value="-1" />
                 </item>
+	                <item name="layer 1" type="way">
+	        		<key key="layer" value="1" />
+	        	</item>
         		<item name="layer 2" type="way">
-        				<key key="layer" value="2" />
+        			<key key="layer" value="2" />
         		</item>
         		<item name="layer 3" type="way">
-        				<key key="layer" value="3" />
-				</item>
-				<item name="layer 4" type="way">
-        				<key key="layer" value="4" />
-				</item>
+        			<key key="layer" value="3" />
+			</item>
+			<item name="layer 4" type="way">
+        			<key key="layer" value="4" />
+			</item>
         </group> 
 
 </presets>
