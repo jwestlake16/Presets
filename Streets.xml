@@ -78,11 +78,11 @@ Install instructions: (note a few restarts will be required)
 	</group>
 
 	<group name="Elevation" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/bridge_outline.svg">
-                <item name="bridge" type="way">
+                <item name="bridge" type="way,closedway">
                         <key key="bridge" value="yes" />
                         <key key="layer" value="1" />
                 </item>
-                <item name="tunnel" type="way">
+                <item name="tunnel" type="way,closedway">
                         <key key="tunnel" value="yes" />
                         <key key="layer" value="-1" />
                 </item>
@@ -98,6 +98,15 @@ Install instructions: (note a few restarts will be required)
 			<item name="layer 4" type="way">
         			<key key="layer" value="4" />
 			</item>
+        		<item name="layer 2" type="way,closedway">
+        				<key key="layer" value="2" />
+        		</item>
+        		<item name="layer 3" type="way,closedway">
+        				<key key="layer" value="3" />
+				</item>
+				<item name="layer 4" type="way,closedway">
+        				<key key="layer" value="4" />
+				</item>
         </group> 
 
 </presets>
