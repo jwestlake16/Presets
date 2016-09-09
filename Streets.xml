@@ -97,6 +97,7 @@ Install instructions: (note a few restarts will be required)
 			</item>
 			<item name="layer 4" type="way,closedway">
         		<key key="layer" value="4" />
+    		</item>
         </group> 
 
 </presets>
