@@ -52,7 +52,7 @@ Install instructions: (note a few restarts will be required)
 		</item>
 
 		<item name="oneway" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/oneway.png" type="way,closedway">
-		<key key="oneway" value="yes" />
+			<key key="oneway" value="yes" />
 		</item>
 
 		<item name="roundabout" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/roundabout_left.svg" type="way,closedway">
@@ -61,33 +61,33 @@ Install instructions: (note a few restarts will be required)
 
 	<group name="Links" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/links.png">
 		<item name="Tertiary" type="way,closedway">
-		<key key="highway" value="tertiary_link" />
+			<key key="highway" value="tertiary_link" />
 		</item>
 		<item name="Secondary" type="way,closedway">
-		<key key="highway" value="secondary_link" />
+			<key key="highway" value="secondary_link" />
 		</item>
 		<item name="Primary" type="way,closedway">
-		<key key="highway" value="primary_link" />
+			<key key="highway" value="primary_link" />
 		</item>
 		<item name="Trunk" type="way,closedway">
-		<key key="highway" value="trunk_link" />
+			<key key="highway" value="trunk_link" />
 		</item>
 		<item name="Motorway" type="way,closedway">
-		<key key="highway" value="motorway_link" />
+			<key key="highway" value="motorway_link" />
 		</item>
 	</group>
 
 	<group name="Elevation" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/bridge_outline.svg">
             <item name="bridge" type="way,closedway">
-                    <key key="bridge" value="yes" />
-                    <key key="layer" value="1" />
+                <key key="bridge" value="yes" />
+                <key key="layer" value="1" />
             </item>
             <item name="tunnel" type="way,closedway">
-                    <key key="tunnel" value="yes" />
-                    <key key="layer" value="-1" />
+                <key key="tunnel" value="yes" />
+                <key key="layer" value="-1" />
             </item>
-                <item name="layer 1" type="way,closedway">
-        		<key key="layer" value="1" />
+            <item name="layer 1" type="way,closedway">
+        	    <key key="layer" value="1" />
         	</item>
     		<item name="layer 2" type="way,closedway">
     			<key key="layer" value="2" />
@@ -96,7 +96,7 @@ Install instructions: (note a few restarts will be required)
     			<key key="layer" value="3" />
 			</item>
 			<item name="layer 4" type="way,closedway">
-        			<key key="layer" value="4" />
+        		<key key="layer" value="4" />
         </group> 
 
 </presets>
