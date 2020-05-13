@@ -1,7 +1,7 @@
 <!-- 
 	
 Title:..........JOSM Highway Tagging Preset
-Authors:.........jwestlake16
+Authors:.........westlakej
 Contributors:...
 Latest update:..8/9/2016
 Summary:........This preset allows for multiple highway tags to be added as keyboard shortcuts using the toolbar.
@@ -23,43 +23,43 @@ Install instructions: (note a few restarts will be required)
 -->
 
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
-		<item name="Track" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/track.png" type="way,closedway">
+		<item name="Track" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/track1.png" type="way,closedway">
 			<key key="highway" value="track" />
 		</item>
-		<item name="Service" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/service.png" type="way,closedway">
+		<item name="Service" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/service1.png" type="way,closedway">
 			<key key="highway" value="service" />
 		</item>
-		<item name="Residential" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/residential.png" type="way,closedway">
+		<item name="Residential" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/residential1.png" type="way,closedway">
 			<key key="highway" value="residential" />
 		</item>
-		<item name="Unclassified" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/unclassified.png" type="way,closedway">
+		<item name="Unclassified" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/unclassified1.png" type="way,closedway">
 			<key key="highway" value="unclassified" />
 		</item>
-		<item name="Tertiary" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/tertiary.png" type="way,closedway">
+		<item name="Tertiary" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/tertiary1.png" type="way,closedway">
 			<key key="highway" value="tertiary" />
 		</item>
-		<item name="Secondary" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/secondary.png" type="way,closedway">
+		<item name="Secondary" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/secondary1.png" type="way,closedway">
 			<key key="highway" value="secondary" />
 		</item>
-		<item name="Primary" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/primary.png" type="way,closedway">
+		<item name="Primary" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/primary1.png" type="way,closedway">
 			<key key="highway" value="primary" />
 		</item>
-		<item name="Trunk" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/trunk.png" type="way,closedway">
+		<item name="Trunk" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/trunk1.png" type="way,closedway">
 			<key key="highway" value="trunk" />
 		</item>
-		<item name="Motorway" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/motorway.png" type="way,closedway">
+		<item name="Motorway" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/motorway1.png" type="way,closedway">
 			<key key="highway" value="motorway" />
 		</item>
 
-		<item name="oneway" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/oneway.png" type="way,closedway">
+		<item name="oneway" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/oneway.png" type="way,closedway">
 			<key key="oneway" value="yes" />
 		</item>
 
-		<item name="roundabout" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/roundabout_left.svg" type="way,closedway">
+		<item name="roundabout" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/roundabout_left.svg" type="way,closedway">
 			<key key="junction" value="roundabout" />
 		</item>
 
-	<group name="Links" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/links.png">
+	<group name="Links" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/links.png">
 		<item name="Tertiary" type="way,closedway">
 			<key key="highway" value="tertiary_link" />
 		</item>
@@ -77,7 +77,7 @@ Install instructions: (note a few restarts will be required)
 		</item>
 	</group>
 
-	<group name="Elevation" icon="https://raw.githubusercontent.com/jwestlake16/Presets/master/Icons/bridge_outline.svg">
+	<group name="Elevation" icon="https://raw.githubusercontent.com/westlakej/Presets/master/Icons/bridge_outline.svg">
             <item name="bridge" type="way,closedway">
                 <key key="bridge" value="yes" />
                 <key key="layer" value="1" />
